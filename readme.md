@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Welcome to portfolio website! This website showcases my skills, projects, and professional journey as a software developer. It's built using pure HTML, CSS, and JavaScript to demonstrate my abilities in web development and design.
+Welcome to portfolio website! This website showcases few of the skills, projects, and professional journey as a software developer. It's built using pure HTML, CSS, and JavaScript to demonstrate  abilities in web development and design.
 
 
 
