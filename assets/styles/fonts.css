@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
+/* ---------------------------------------------
+   Author: Alex
+   Description: Typography settings using Fira Code font.
+   Optimized for readability and scalability.
+   --------------------------------------------- */
+
+/* Define root variables for global usage */
+:root {
+    /* Primary font variable for easy reference */
+    --primary-font: 'Fira Code', monospace;
+}
+
+/* Base class for applying the primary font */
+.primary-font {
+    font-family: var(--primary-font);
+    /* Enable automatic optical sizing for better legibility */
+    font-optical-sizing: auto;
+    /* Normal font style, can be overridden if needed */
+    font-style: normal;
+}
+
+/* Weight classes to control font thickness */
+
+/* Extra light weight */
+.weight-300 {
+    font-weight: 300;
+}
+
+/* Regular weight */
+.weight-400 {
+    font-weight: 400;
+}
+
+/* Medium weight */
+.weight-500 {
+    font-weight: 500;
+}
+
+/* Semi-bold weight */
+.weight-600 {
+    font-weight: 600;
+}
+
+/* Bold weight */
+.weight-700 {
+    font-weight: 700;
+}
+
+/* ---------------------------------------------
+   End of stylesheet
+   Author: Alex
+   --------------------------------------------- */
